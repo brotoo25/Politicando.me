@@ -1,0 +1,289 @@
+{  
+   "meta":{  
+      "atualizado":"11.10.2016",
+      "fonte":"http://www.tse.jus.br/partidos/partidos-politicos/registrados-no-tse",
+      "total":35
+   },
+   "data":[  
+      {  
+         "nome":"Partido Do Movimento Democrático Brasileiro",
+         "deferimento":"30.6.1981",
+         "numero":"15",
+         "presidente_nacional":"Romero Jucá",
+         "id":1,
+         "sigla":"PMDB"
+      },
+      {  
+         "nome":"Partido Trabalhista Brasileiro",
+         "deferimento":"3.11.1981",
+         "numero":"14",
+         "presidente_nacional":"Roberto Jefferson Monteiro Francisco",
+         "id":2,
+         "sigla":"PTB"
+      },
+      {  
+         "nome":"Partido Democrático Trabalhista",
+         "deferimento":"10.11.1981",
+         "numero":"12",
+         "presidente_nacional":"Carlos Lupi",
+         "id":3,
+         "sigla":"PDT"
+      },
+      {  
+         "nome":"Partido Dos Trabalhadores",
+         "deferimento":"11.2.1982",
+         "numero":"13",
+         "presidente_nacional":"Rui Goethe Da Costa Falcao",
+         "id":4,
+         "sigla":"PT"
+      },
+      {  
+         "nome":"Democratas",
+         "deferimento":"11.9.1986",
+         "numero":"25",
+         "presidente_nacional":"José Agripino Maia",
+         "id":5,
+         "sigla":"DEM"
+      },
+      {  
+         "nome":"Partido Comunista Do Brasil",
+         "deferimento":"23.6.1988",
+         "numero":"65",
+         "presidente_nacional":"Luciana Barbosa de Oliveira Santos",
+         "id":6,
+         "sigla":"PCdoB"
+      },
+      {  
+         "nome":"Partido Socialista Brasileiro",
+         "deferimento":"1.7.1988",
+         "numero":"40",
+         "presidente_nacional":"Carlos Roberto Siqueira de Barros",
+         "id":7,
+         "sigla":"PSB"
+      },
+      {  
+         "nome":"Partido Da Social Democracia Brasileira",
+         "deferimento":"24.8.1989",
+         "numero":"45",
+         "presidente_nacional":"Aécio Neves Da Cunha",
+         "id":8,
+         "sigla":"PSDB"
+      },
+      {  
+         "nome":"Partido Trabalhista Cristão",
+         "deferimento":"22.2.1990",
+         "numero":"36",
+         "presidente_nacional":"Daniel S. Tourinho",
+         "id":9,
+         "sigla":"PTC"
+      },
+      {  
+         "nome":"Partido Social Cristão",
+         "deferimento":"29.3.1990",
+         "numero":"20",
+         "presidente_nacional":"Everaldo Dias Pereira",
+         "id":10,
+         "sigla":"PSC"
+      },
+      {  
+         "nome":"Partido Da Mobilização Nacional",
+         "deferimento":"25.10.1990",
+         "numero":"33",
+         "presidente_nacional":"Antonio Carlos Bosco Massarollo",
+         "id":11,
+         "sigla":"PMN"
+      },
+      {  
+         "nome":"Partido Republicano Progressista",
+         "deferimento":"29.10.1991",
+         "numero":"44",
+         "presidente_nacional":"Ovasco Roma Altimari Resende",
+         "id":12,
+         "sigla":"PRP"
+      },
+      {  
+         "nome":"Partido Popular Socialista",
+         "deferimento":"19.3.1992",
+         "numero":"23",
+         "presidente_nacional":"Roberto Freire",
+         "id":13,
+         "sigla":"PPS"
+      },
+      {  
+         "nome":"Partido Verde",
+         "deferimento":"30.9.1993",
+         "numero":"43",
+         "presidente_nacional":"José Luiz De França Penna",
+         "id":14,
+         "sigla":"PV"
+      },
+      {  
+         "nome":"Partido Trabalhista Do Brasil",
+         "deferimento":"11.10.1994",
+         "numero":"70",
+         "presidente_nacional":"Luis Henrique De Oliveira Resende",
+         "id":15,
+         "sigla":"PTdoB"
+      },
+      {  
+         "nome":"Partido Progressista",
+         "deferimento":"16.11.1995",
+         "numero":"11",
+         "presidente_nacional":"Ciro Nogueira Lima Filho",
+         "id":16,
+         "sigla":"PP"
+      },
+      {  
+         "nome":"Partido Socialista Dos Trabalhadores Unificado",
+         "deferimento":"19.12.1995",
+         "numero":"16",
+         "presidente_nacional":"José Maria De Almeida",
+         "id":17,
+         "sigla":"PSTU"
+      },
+      {  
+         "nome":"Partido Comunista Brasileiro",
+         "deferimento":"9.5.1996",
+         "numero":"21",
+         "presidente_nacional":"Ivan Martins Pinheiro*",
+         "id":18,
+         "sigla":"PCB"
+      },
+      {  
+         "nome":"Partido Renovador Trabalhista Brasileiro",
+         "deferimento":"18.2.1997",
+         "numero":"28",
+         "presidente_nacional":"José Levy Fidelix Da Cruz",
+         "id":19,
+         "sigla":"PRTB"
+      },
+      {  
+         "nome":"Partido Humanista Da Solidariedade",
+         "deferimento":"20.3.1997",
+         "numero":"31",
+         "presidente_nacional":"Eduardo Machado E Silva Rodrigues",
+         "id":20,
+         "sigla":"PHS"
+      },
+      {  
+         "nome":"Partido Social Democrata Cristão",
+         "deferimento":"5.8.1997",
+         "numero":"27",
+         "presidente_nacional":"José Maria Eymael",
+         "id":21,
+         "sigla":"PSDC"
+      },
+      {  
+         "nome":"Partido Da Causa Operária",
+         "deferimento":"30.9.1997",
+         "numero":"29",
+         "presidente_nacional":"Rui Costa Pimenta",
+         "id":22,
+         "sigla":"PCO"
+      },
+      {  
+         "nome":"Partido Trabalhista Nacional",
+         "deferimento":"2.10.1997",
+         "numero":"19",
+         "presidente_nacional":"Renata Hellmeister de Abreu",
+         "id":23,
+         "sigla":"PTN"
+      },
+      {  
+         "nome":"Partido Social Liberal",
+         "deferimento":"2.6.1998",
+         "numero":"17",
+         "presidente_nacional":"Antonio Eduardo Gonçalves de Rueda",
+         "id":24,
+         "sigla":"PSL"
+      },
+      {  
+         "nome":"Partido Republicano Brasileiro",
+         "deferimento":"25.8.2005",
+         "numero":"10",
+         "presidente_nacional":"Eduardo Benedito Lopes",
+         "id":25,
+         "sigla":"PRB"
+      },
+      {  
+         "nome":"Partido Socialismo E Liberdade",
+         "deferimento":"15.9.2005",
+         "numero":"50",
+         "presidente_nacional":"Raimundo Luiz Silva Araújo",
+         "id":26,
+         "sigla":"PSOL"
+      },
+      {  
+         "nome":"Partido Da República",
+         "deferimento":"19.12.2006",
+         "numero":"22",
+         "presidente_nacional":"Antonio Carlos Rodrigues",
+         "id":27,
+         "sigla":"PR"
+      },
+      {  
+         "nome":"Partido Social Democrático",
+         "deferimento":"27.9.2011",
+         "numero":"55",
+         "presidente_nacional":"Alfredo Cotait Neto",
+         "id":28,
+         "sigla":"PSD"
+      },
+      {  
+         "nome":"Partido Pátria Livre",
+         "deferimento":"4.10.2011",
+         "numero":"54",
+         "presidente_nacional":"Sérgio Rubens De Araújo Torres",
+         "id":29,
+         "sigla":"PPL"
+      },
+      {  
+         "nome":"Partido Ecológico Nacional",
+         "deferimento":"19.6.2012",
+         "numero":"51",
+         "presidente_nacional":"Adilson Barroso Oliveira",
+         "id":30,
+         "sigla":"PEN"
+      },
+      {  
+         "nome":"Partido Republicano Da Ordem Social",
+         "deferimento":"24.9.2013",
+         "numero":"90",
+         "presidente_nacional":"Eurípedes G.De Macedo Júnior",
+         "id":31,
+         "sigla":"PROS"
+      },
+      {  
+         "nome":"Solidariedade",
+         "deferimento":"24.9.2013",
+         "numero":"77",
+         "presidente_nacional":"Paulo Pereira Da Silva",
+         "id":32,
+         "sigla":"SD"
+      },
+      {  
+         "nome":"Partido Novo",
+         "deferimento":"15.9.2015",
+         "numero":"30",
+         "presidente_nacional":"João Dionísio Filgueira B. Amoêdo",
+         "id":33,
+         "sigla":"NOVO"
+      },
+      {  
+         "nome":"Rede Sustentabilidade",
+         "deferimento":"22.9.2015",
+         "numero":"18",
+         "presidente_nacional":"José Gustavo Fávaro Barbosa Silva",
+         "id":34,
+         "sigla":"REDE"
+      },
+      {  
+         "nome":"Partido da Mulher Brasileira",
+         "deferimento":"29.9.2015",
+         "numero":"35",
+         "presidente_nacional":"Suêd Haidar Nogueira",
+         "id":35,
+         "sigla":"PMB"
+      }
+   ]
+}

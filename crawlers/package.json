@@ -1,0 +1,13 @@
+{
+  "name"         : "PoliticandoMe",
+  "version"      : "0.0.1",
+  "description"  : "Scrape le web.",
+  "main"         : "app.js",
+  "author"       : "Broto",
+  "dependencies" : {
+    "express"    : "4.14.0",
+    "request"    : "2.75.0",
+    "cheerio"    : "0.22.0",
+    "tabletojson": "0.4.0"
+  }
+}
